@@ -1,0 +1,14 @@
+/Users/edwingeul/RiderProjects/learning-csharp-01/learning-csharp-01/obj/Debug/net10.0/learning-csharp-01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edwingeul/RiderProjects/learning-csharp-01/learning-csharp-01/obj/Debug/net10.0/learning-csharp-01.AssemblyInfoInputs.cache
+/Users/edwingeul/RiderProjects/learning-csharp-01/learning-csharp-01/obj/Debug/net10.0/learning-csharp-01.AssemblyInfo.cs
+/Users/edwingeul/RiderProjects/learning-csharp-01/learning-csharp-01/obj/Debug/net10.0/learning-csharp-01.csproj.CoreCompileInputs.cache
+/Users/edwingeul/RiderProjects/learning-csharp-01/learning-csharp-01/obj/Debug/net10.0/learning-csharp-01.genruntimeconfig.cache
+/Users/edwingeul/RiderProjects/learning-csharp-01/learning-csharp-01/bin/Debug/net10.0/01-hello-world
+/Users/edwingeul/RiderProjects/learning-csharp-01/learning-csharp-01/bin/Debug/net10.0/01-hello-world.deps.json
+/Users/edwingeul/RiderProjects/learning-csharp-01/learning-csharp-01/bin/Debug/net10.0/01-hello-world.runtimeconfig.json
+/Users/edwingeul/RiderProjects/learning-csharp-01/learning-csharp-01/bin/Debug/net10.0/01-hello-world.dll
+/Users/edwingeul/RiderProjects/learning-csharp-01/learning-csharp-01/bin/Debug/net10.0/01-hello-world.pdb
+/Users/edwingeul/RiderProjects/learning-csharp-01/learning-csharp-01/obj/Debug/net10.0/01-hello-world.dll
+/Users/edwingeul/RiderProjects/learning-csharp-01/learning-csharp-01/obj/Debug/net10.0/refint/01-hello-world.dll
+/Users/edwingeul/RiderProjects/learning-csharp-01/learning-csharp-01/obj/Debug/net10.0/01-hello-world.pdb
+/Users/edwingeul/RiderProjects/learning-csharp-01/learning-csharp-01/obj/Debug/net10.0/ref/01-hello-world.dll
