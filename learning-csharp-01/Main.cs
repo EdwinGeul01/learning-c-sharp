@@ -12,5 +12,12 @@ public class MainClass
         // Chapter # 2 - variables
         learning.VaraiblesCh2.Run();
         
+        
+        //chapter # 3 - casting
+        learning.Casting.Run();
+        
+        
+        
+        
     }
 }

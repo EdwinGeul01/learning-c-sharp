@@ -12,3 +12,4 @@
 /Users/edwingeul/RiderProjects/learning-csharp-01/learning-csharp-01/obj/Debug/net10.0/refint/01-hello-world.dll
 /Users/edwingeul/RiderProjects/learning-csharp-01/learning-csharp-01/obj/Debug/net10.0/01-hello-world.pdb
 /Users/edwingeul/RiderProjects/learning-csharp-01/learning-csharp-01/obj/Debug/net10.0/ref/01-hello-world.dll
+/Users/edwingeul/RiderProjects/learning-csharp-01/learning-csharp-01/obj/Debug/net10.0/learning-csharp-01.sourcelink.json

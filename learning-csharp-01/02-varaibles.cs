@@ -7,6 +7,9 @@ namespace  learning
 
         public static void Run()
         {
+            
+            Console.WriteLine("----- Chapter 02 -----");
+
             int numb1 = 12;
             int numb2 = 5;
         
